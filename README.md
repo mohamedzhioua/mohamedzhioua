@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<!--
-**mohamedzhioua/mohamedzhioua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-MohamedZhioua-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-zhioua-18873b196/)](https://www.linkedin.com/in/mohamed-zhioua-18873b196/)
 
-Here are some ideas to get you started:
+Nice to meet you!, I recently graduated from 
+🔭 I'm currently working on my personal mobile application. DEMO : https://www.youtube.com/watch?v=BdMUXa9pMNA
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
