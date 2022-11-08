@@ -9,7 +9,7 @@ I really enjoy learning languages and frameworks like React , React Native , Vue
 🔭 I'm currently working on my personal mobile application. DEMO : [Fi-Thneyti](https://www.youtube.com/watch?v=BdMUXa9pMNA) . And Seeking to further improve my skills as the future full stack developer at Atmospheric Solutions.
 
 ## 📈 Github Activity 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedzhioua&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedzhioua&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedzhioua&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedzhioua&&show_icons=true&theme=gradient" /></a> |
 | ------------- | ------------- |
 
 ## 👀 Visits
