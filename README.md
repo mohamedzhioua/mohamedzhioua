@@ -1,6 +1,6 @@
 ### Hi I'm Mohamed 👋
-* ✉️You can contact me on  
-[![Linkedin Badge](https://img.shields.io/badge/-MohamedZhioua-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-zhioua-18873b196/)](https://www.linkedin.com/in/mohamed-zhioua-18873b196/)
+
+ [![Linkedin Badge](https://img.shields.io/badge/-MohamedZhioua-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-zhioua-18873b196/)](https://www.linkedin.com/in/mohamed-zhioua-18873b196/)
 
 ## 🚀 About Me 
 
