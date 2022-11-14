@@ -11,7 +11,7 @@ Coding for me is life and it's where i can express my self .
 🔭 I'm currently working on my personal mobile application. DEMO : [Fi-Thneyti](https://www.youtube.com/watch?v=BdMUXa9pMNA) , learning  PHP, And Seeking to further improve my skills as the future full stack developer at Atmospheric Solutions.
 
 ## 📈 Github Activity 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedzhioua&show_icons=true&count_private=true&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedzhioua" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedzhioua&show_icons=true&include_all_commits=true&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedzhioua" /></a> |
 | ------------- | ------------- |
 
 ## 👀 Visits
