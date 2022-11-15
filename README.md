@@ -18,4 +18,6 @@ Coding for me is life and it's where i can express my self .
 ## 👀 Visits
 ![Profile Views](https://komarev.com/ghpvc/?username=mohamedzhioua&color=blue)
 
-
+[![Top Langs](https://<YOUR_CUSTOM_URL>/api/top-langs/?username=mohamedzhioua)](https://github.com/anuraghazra/github-readme-stats)
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedzhioua&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedzhioua)](https://github.com/anuraghazra/github-readme-stats)
