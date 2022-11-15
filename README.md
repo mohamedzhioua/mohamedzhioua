@@ -13,7 +13,6 @@ Coding for me is life and it's where i can express my self .
 ## 📈 Github Activity :octocat:
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedzhioua&show_icons=true&count_private=true&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedzhioua&langs_count=8&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedzhioua)](https://github.com/anuraghazra/github-readme-stats)
 
    
 ## 👀 Visits
