@@ -11,13 +11,11 @@ Coding for me is life and it's where i can express my self .
 🔭 I'm currently working on my personal mobile application. DEMO : [Fi-Thneyti](https://www.youtube.com/watch?v=BdMUXa9pMNA) , learning  PHP, And Seeking to further improve my skills as the future full stack developer at Atmospheric Solutions.
 
 ## 📈 Github Activity :octocat:
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedzhioua&show_icons=true&count_private=true&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedzhioua&layout=compact&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedzhioua&show_icons=true&count_private=true&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedzhioua&layout=compact&count-private=true&hide_border=true" /></a> |
 | ------------- | ------------- |
 
    
 ## 👀 Visits
 ![Profile Views](https://komarev.com/ghpvc/?username=mohamedzhioua&color=blue)
 
-[![Top Langs](https://<YOUR_CUSTOM_URL>/api/top-langs/?username=mohamedzhioua)](https://github.com/anuraghazra/github-readme-stats)
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedzhioua&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedzhioua)](https://github.com/anuraghazra/github-readme-stats)
+
