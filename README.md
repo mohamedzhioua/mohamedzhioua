@@ -1,15 +1,16 @@
-## Hello World, I'm Mohamed <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<a href="https://avatars.githubusercontent.com/u/44137944?v=4"><img align="left" width="150" height="150" src="https://avatars.githubusercontent.com/u/44137944?v=4"></a>
-<br/>
+<h2>Hello World, I'm Mohamed <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+
+
 <img align="right" width="400" alt="GIF" src="https://blog.cloudlayer.io/content/images/2020/12/coding-freak.gif"/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-MohamedZhioua-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-zhioua-18873b196/)](https://www.linkedin.com/in/mohamed-zhioua-18873b196/)
 <br/>
 
+<a href="https://avatars.githubusercontent.com/u/44137944?v=4"><img align="left" width="150" height="150" src="https://avatars.githubusercontent.com/u/44137944?v=4"></a>
+<br/>
 ##  👨🏻‍💻 &nbsp;About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
-- 🎓 &nbsp; My name is Mohamed Zhioua, Recently graduated from [Rebootkamp Tunisia](https://github.com/RBK-TN)  program in November 2022  as a Full Stack JavaScript Developer  . I Also Have A Fundamental Degree in Business Informatics from University of Economic Sciences and Management of Tunis El Manar and certified in Java J2EE .
-<br/>
+🎓 &nbsp; My name is Mohamed Zhioua, Recently graduated from [Rebootkamp Tunisia](https://github.com/RBK-TN)  program in November 2022  as a Full Stack JavaScript Developer  . I Also Have A Fundamental Degree in Business Informatics from University of Economic Sciences and Management of Tunis El Manar and certified in Java J2EE .
 - 💼 &nbsp; I really enjoy learning languages and frameworks like Java , Javascript ,Typescript , React , React Native , Vue , Angular , Node js, Express js ... 
 Coding for me is life and it's where i can express my self .
 
