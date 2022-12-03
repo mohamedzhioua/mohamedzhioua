@@ -14,7 +14,8 @@
 - 💼 &nbsp; I really enjoy learning languages and frameworks like Java , Javascript ,Typescript , React , React Native , Vue , Angular , Node js, Express js ... 
 Coding for me is life and it's where i can express my self .
 
-- 🔭 &nbsp; I'm currently working on my personal mobile application. DEMO : [Fi-Thneyti](https://www.youtube.com/watch?v=BdMUXa9pMNA) , learning new tools , technologies , and trying to impliment what i learn in projects as much i can to gain experience and make my code be more efficient and readable  👨🏻‍💻. Seeking to further improve my skills as the future full stack developer at Atmospheric Solutions.
+- 🔭 &nbsp; I'm currently working on my personal mobile application. DEMO : [Fi-Thneyti](https://www.youtube.com/watch?v=BdMUXa9pMNA) , learning new tools , technologies , and trying to impliment what i learn in projects as much i can to gain experience and make my code be more efficient and readable .<br/>
+  👨🏻‍💻 Seeking to further improve my skills as the future full stack developer at Atmospheric Solutions.
 
 ## :octocat: 📈 Github Activity <img src="https://cdn.discordapp.com/emojis/778638806877732894.gif" width="25px">
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedzhioua&show_icons=true&count_private=true&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedzhioua&langs_count=8&layout=compact&hide_border=true" /></a> |
