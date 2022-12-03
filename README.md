@@ -1,5 +1,6 @@
 ## Hello World,I'm Mohamed   <a href="https://avatars.githubusercontent.com/u/44137944?v=4"><img align="left" width="150" height="150" src="https://avatars.githubusercontent.com/u/44137944?v=4"></a>
-<tr/>
+<br/>
+
 [![Linkedin Badge](https://img.shields.io/badge/-MohamedZhioua-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-zhioua-18873b196/)](https://www.linkedin.com/in/mohamed-zhioua-18873b196/)
 
 <h3> 👨🏻‍💻 &nbsp;About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
