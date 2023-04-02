@@ -13,11 +13,10 @@
 
 If you're looking to hire a dedicated, hardworking Full stack Js developer, I would love to 𝐜𝐨𝐧𝐧𝐞𝐜𝐭 and discuss opportunities for 𝐟𝐫𝐞𝐞𝐥𝐚𝐧𝐜𝐞 𝐰𝐨𝐫𝐤 or 𝐫𝐞𝐦𝐨𝐭𝐞 𝐣𝐨𝐛 opportunities 👨‍💼. Feel free to reach out to me via DM, and I look forward to connecting 🤝 with you.
 
-☕ [Buy Me A Coffee](https://www.buymeacoffee.com/MohamedZhioua)
-  </br></br>
+  Buy me a coffee ☕️ 
    <a href="https://www.buymeacoffee.com/MohamedZhioua"><img width="210" src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=MohamedZhioua&button_colour=FFDD00&font_colour=000000&font_family=Inter&outline_colour=000000&coffee_colour=9d5c01"></a>
    
-🚀 Follow / Contact Me :
+🚀 Connect with me: 
 
 - [LinkedIn](https://www.linkedin.com/in/mohamed-zhioua-18873b196/)
 - [instagram](https://www.instagram.com/mugiwara_med/)
