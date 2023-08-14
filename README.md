@@ -22,7 +22,7 @@ If you're looking to hire a dedicated, hardworking Full stack Js developer, I wo
    
 🚀 Connect with me: 
 
-- [LinkedIn](https://www.linkedin.com/in/mohamed-zhioua-18873b196/)
+- [LinkedIn](https://www.linkedin.com/in/mohamed-zhioua/)
 - [instagram](https://www.instagram.com/mugiwara_med/)
 - [facebook](https://www.facebook.com/med.zhioua.9/)
 
