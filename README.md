@@ -27,7 +27,8 @@ If you're looking to hire a dedicated, hardworking Full stack Js developer, I wo
 - [facebook](https://www.facebook.com/med.zhioua.9/)
 
 ## :octocat: 📈 Github Activity <img src="https://cdn.discordapp.com/emojis/778638806877732894.gif" width="25px">
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedzhioua&show_icons=true&count_private=true&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedzhioua&langs_count=8&layout=compact&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedzhioua&show_icons=true&count_private=true&hide_border=true" alt="Anurag's github stats" /></a> | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact) |
+
 | ------------- | ------------- |
 
    
