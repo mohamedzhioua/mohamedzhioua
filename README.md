@@ -50,7 +50,7 @@ I am open to:
 
 ## Connect With Me
 
-- [Portfolio](https://mohamedzhioua.dev)
+- [Portfolio](https://www.mohamedzhioua.com)
 - [LinkedIn](https://www.linkedin.com/in/mohamed-zhioua/)
 - [Instagram](https://www.instagram.com/mugiwara_med/)
 - [Facebook](https://www.facebook.com/med.zhioua.9/)
