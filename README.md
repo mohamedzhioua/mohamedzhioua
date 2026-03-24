@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://mohamedzhioua.dev">Portfolio</a> •
+  <a href="https://www.mohamedzhioua.com">Portfolio</a> •
   <a href="https://www.linkedin.com/in/mohamed-zhioua/">LinkedIn</a> •
   <a href="https://www.instagram.com/mugiwara_med/">Instagram</a> •
   <a href="https://www.facebook.com/med.zhioua.9/">Facebook</a>
