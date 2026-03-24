@@ -1,38 +1,72 @@
-<h2>👋 Welcom To My Github <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h1 align="center">
+  Mohamed Zhioua
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" alt="Waving hand">
+</h1>
 
+<p align="center">
+  Full-Stack JavaScript Developer • Building fast, scalable, and user-focused web products
+</p>
 
-<img align="right" width="400" alt="GIF" src="https://blog.cloudlayer.io/content/images/2020/12/coding-freak.gif"/>
+<p align="center">
+  <a href="https://mohamedzhioua.dev">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/mohamed-zhioua/">LinkedIn</a> •
+  <a href="https://www.instagram.com/mugiwara_med/">Instagram</a> •
+  <a href="https://www.facebook.com/med.zhioua.9/">Facebook</a>
+</p>
 
+<img align="right" width="360" alt="Coding GIF" src="https://blog.cloudlayer.io/content/images/2020/12/coding-freak.gif"/>
 
+<a href="https://avatars.githubusercontent.com/u/44137944?v=4">
+  <img align="left" width="140" height="140" src="https://avatars.githubusercontent.com/u/44137944?v=4" alt="Mohamed Zhioua avatar"/>
+</a>
 
-<a href="https://avatars.githubusercontent.com/u/44137944?v=4"><img align="left" width="150" height="150" src="https://avatars.githubusercontent.com/u/44137944?v=4"></a>
-</br></br>
+<br><br>
 
-##  👨🏻‍💻 &nbsp;About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-  </br>
+## About Me
 
-  </br>
-👋 Hello, I'm Mohamed Zhioua
+Hi, I'm **Mohamed Zhioua**, a **Full-Stack JavaScript Developer** focused on building modern web applications with clean architecture, strong UX, and production-ready performance.
 
-If you're looking to hire a dedicated, hardworking Full stack Js developer, I would love to 𝐜𝐨𝐧𝐧𝐞𝐜𝐭 and discuss opportunities for 𝐟𝐫𝐞𝐞𝐥𝐚𝐧𝐜𝐞 𝐰𝐨𝐫𝐤 or 𝐫𝐞𝐦𝐨𝐭𝐞 𝐣𝐨𝐛 opportunities 👨‍💼. Feel free to reach out to me via DM, and I look forward to connecting 🤝 with you.
+I work across the full product cycle, from frontend interfaces to backend systems, with a practical focus on solutions that are fast, maintainable, and built for real users.
 
-  <b>Buy me a coffee</b> ☕️ 
-    </br></br>
-   <a href="https://www.buymeacoffee.com/MohamedZhioua"><img width="210" src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=MohamedZhioua&button_colour=FFDD00&font_colour=000000&font_family=Inter&outline_colour=000000&coffee_colour=9d5c01"></a>
-   
-🚀 Connect with me: 
+I am open to:
 
+- Freelance opportunities
+- Remote full-time roles
+- Product-focused collaborations
+
+## What I Bring
+
+- Building full-stack applications with JavaScript and TypeScript
+- Developing responsive, polished, and accessible user interfaces
+- Designing scalable frontend architectures with modern React and Next.js
+- Shipping backend features, APIs, integrations, and business logic
+- Improving performance, maintainability, and developer experience
+
+## Current Focus
+
+- Creating high-quality digital products
+- Strengthening my portfolio with modern, real-world projects
+- Collaborating with teams that care about quality, speed, and impact
+
+## Connect With Me
+
+- [Portfolio](https://mohamedzhioua.dev)
 - [LinkedIn](https://www.linkedin.com/in/mohamed-zhioua/)
-- [instagram](https://www.instagram.com/mugiwara_med/)
-- [facebook](https://www.facebook.com/med.zhioua.9/)
+- [Instagram](https://www.instagram.com/mugiwara_med/)
+- [Facebook](https://www.facebook.com/med.zhioua.9/)
 
-## :octocat: 📈 Github Activity <img src="https://cdn.discordapp.com/emojis/778638806877732894.gif" width="25px">
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedzhioua&show_icons=true&count_private=true&hide_border=true" alt="Anurag's github stats" /></a> | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedzhioua&layout=compact) |
-| ------------- | ------------- |
+## Support My Work
 
+<a href="https://www.buymeacoffee.com/MohamedZhioua">
+  <img width="210" src="https://img.buymeacoffee.com/button-api/?text=Buy+me+a+coffee&emoji=&slug=MohamedZhioua&button_colour=FFDD00&font_colour=000000&font_family=Inter&outline_colour=000000&coffee_colour=9d5c01" alt="Buy me a coffee button">
+</a>
 
-   
-## 👀 Visits
+## GitHub Activity
+
+| Stats | Top Languages |
+| --- | --- |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=mohamedzhioua&show_icons=true&count_private=true&hide_border=true" alt="Mohamed Zhioua GitHub stats" /></a> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedzhioua&layout=compact&hide_border=true" alt="Top languages" /> |
+
+## Profile Views
+
 ![Profile Views](https://komarev.com/ghpvc/?username=mohamedzhioua&color=blue)
-
-
